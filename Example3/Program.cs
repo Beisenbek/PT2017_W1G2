@@ -8,6 +8,10 @@ namespace Example3
 {
     class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="x"></param>
         static void Main(string[] x)
         {
             if(x.Length > 0)
